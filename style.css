@@ -1,0 +1,43 @@
+body { background-color: #e8ebf0; font-family: 'Lato', sans-serif; }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Kanit';
+}
+
+a:link {
+    color: #ffffff;
+}
+
+/* visited link */
+a:visited {
+    color: #ffffff;
+}
+
+/* mouse over link */
+a:hover {
+    color: #ffffff;
+}
+
+/* selected link */
+a:active {
+    color: #ffffff;
+}
+
+.container {
+  margin: 0 auto;
+  width: 100%;
+}
+
+td {
+	border-top: 1px solid #ddd;
+	border-left: 1px solid #ddd;
+}
+
+tr {
+	text-align: center;
+}
