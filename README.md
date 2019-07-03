@@ -1,4 +1,4 @@
-[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)](https://github.com/arafarn12/ezclass.fun)
+[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)]()
 ======
 
 # โปรแกรมสร้างตารางเรียน PSU : ezclass.fun
