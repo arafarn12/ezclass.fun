@@ -1,6 +1,3 @@
-[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)]()
-======
-
 # โปรแกรมสร้างตารางเรียน PSU : ezclass.fun
 
 โปรแกรมสร้างตารางเรียน PSU รองรับเฉพาะระบบ SIS
